@@ -1,0 +1,15 @@
+.heading,
+.description {
+    text-align: center;
+}
+.heading {
+    background-color: purple;
+    color: white;
+}
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+.food {
+    height: auto;
+    width: 600px;
+}
